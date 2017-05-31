@@ -8,7 +8,7 @@ image_resource:
     tag: '8'
 
 inputs:
-  - name: pcfdemo-ci
+  - name: pcfdemo
 
 run:
   path: pcfdemo/ci/tasks/integration.sh
